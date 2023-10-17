@@ -48,7 +48,7 @@ export default function Index() {
             <Image
               src={coat1}
               alt="Description of Image"
-              width={400}
+              width={450}
               height={750}
             />
           </center>
@@ -58,7 +58,7 @@ export default function Index() {
             <Image
               src={coat2}
               alt="Description of Image"
-              width={400}
+              width={450}
               height={750}
             />
           </center>
