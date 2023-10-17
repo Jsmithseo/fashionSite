@@ -35,14 +35,6 @@ export default function Index() {
         <Container maxWidth="lg">
           <br></br>
           <br></br>
-          {/* <center>
-            <Image
-              src={Logo}
-              alt="Description of Image"
-              width={300}
-              height={75}
-            />
-          </center> */}
           <br></br>
           <br></br>
           <h2 style={companyTitle}><b>SAY MY NAME: I AM BREONNA TAYLOR.</b></h2>
@@ -109,7 +101,10 @@ export default function Index() {
             <div style={{fontSize:"20px", paddingTop: "30px"}}><b>Please Rock This Piece in Unapologetic Peace.</b> Fearlessly, yet elegantly holding the torch for all those wrongfully slain and in solidarity with your fellow trailblazers of funk and fashion!</div>
 
           </center>
-          
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
         </Container>
       </React.Fragment>
       <div></div>
