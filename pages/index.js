@@ -48,7 +48,7 @@ export default function Index() {
             <Image
               src={coat1}
               alt="Description of Image"
-              width={450}
+              width={424}
               height={750}
             />
           </center>
@@ -58,7 +58,7 @@ export default function Index() {
             <Image
               src={coat2}
               alt="Description of Image"
-              width={450}
+              width={425}
               height={750}
             />
           </center>
@@ -87,13 +87,11 @@ export default function Index() {
                 <li>Gold Monogrammed SDA Buttons</li>
                 <li>Imitation rose</li>
                 <li>Ms. Taylor's nightgown adorned in moon and star sequins </li>
+                <li>            Night shirt adorned in moon and star sequins.</li>
                 <li>Dry Clean Only</li>
               </ul>
             </div>
-            <div style={{fontSize:"20px", fontWeight: "bold", paddingTop: "10px"}}>
-            Night shirt adorned in moon and star sequins.
-            </div>
-            <div style={{fontSize:"20px",paddingTop: "20px"}}>Each oversized bullet (6 total) trimmed in tiny silver rhinestones represents where Ms. Taylor was shot: Upper chest, upper arm, abdomen, thigh, right foot, left foot.</div>
+            <div style={{fontSize:"20px",paddingTop: "30px"}}>Each oversized bullet (6 total) trimmed in tiny silver rhinestones represents where Ms. Taylor was shot: Upper chest, upper arm, abdomen, thigh, right foot, left foot.</div>
 
             <div style={{fontSize:"20px", paddingTop: "20px"}}><b>Rose</b> placement on the back of your coat might be found in alternate locations due to comfort level versus aesthetics.</div>
             <div style={{fontSize:"20px", paddingTop: "20px"}}>Hair <b>trim</b> and the color of the <b>comforter set</b> may vary due to manufacture availability.</div>
